@@ -50,7 +50,7 @@
         <sub><b>구혜준</b></sub>
       </a>
       <br />
-      <sub>TF원</sub>
+      <sub>TF장</sub>
     </td>
   </tr>
 </table>
